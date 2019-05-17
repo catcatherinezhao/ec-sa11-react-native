@@ -1,1 +1,1 @@
-# ec-sa11-react-native
+# EC SA11 React Native
